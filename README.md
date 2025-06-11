@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Nicholas
-- 👀 I’m interested in hacking,even your network,not that am black hatted just that i like being sturborn.
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on hacking,penetration testing and darkweb
-- 📫 How to reach me email me at muriminicholas197@gmail.com
-- 😄 very unserious
-- ⚡ i like nonsense
+- 👋 Hi, I’m Nicholas Njama KCA university computer science graduate.
+- 👀 A passionate cybersecurity enthuathist, keen on ethical hacking,petesting , cybersecurity analysis and cybersecurity on the defense.
+- 🌱 I hold a bachelors degree in applied computing, an online cybersecurity fundamentals certificate through the ibmskills platform.
+- Beyond cybersecurity I take some of my free time in webdevelopment, having done several projects in java, python ,react and tailwindcss.
+- 💞️ I’m looking to collaborate on hacking,penetration testing and darkweb.
+- 📫 reach me email me at muriminicholas197@gmail.com or visit me at  https://atomictechhub.vercel.app/ 
+- 😄 I like making new friends and moreover in making both financial and technological advancements.
+- ⚡ I value Honesty and loyalty.
 
-<!---
-muriminicholas/muriminicholas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

@@ -40,23 +40,23 @@
 👉 More on my [Portfolio](https://your-portfolio-link.com) *(replace with your actual link)*
 
 📜 **Certifications**
-- ✅ Fundamentals of Cybersecurity – Coursera  
-- ✅ Cloud & Network Security Graduate – Cyber Shujaa Program  
-- ✅ *(In progress)* Generative AI & Agentic AI – Open University of Kenya  
+- ✅ Fundamentals of Cybersecurity – IBM skilld
+- ✅ Cisco Ethical hacking Graduate – Cyber Shujaa Program  
+ 
 
 📝 **Writeups**
 📂 Explore my CTF Writeups & Cybersecurity Reports → [Writeups Repository](https://github.com/yourusername/writeups)
 
 📊 **GitHub Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="Antony's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="Nicholas GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 📫 **Contact Me**
-📧 Email: antonymbugua742@gmail.com  
-📱 Phone: +254 745 390 742  
-💼 LinkedIn: [linkedin.com/in/antony-mbugua](https://www.linkedin.com/in/antony-mbugua)  
+📧 Email: muriminicholas197@gmail.com  
+📱 Phone: +254 704 204 582 
+💼 LinkedIn: [linkedin.com/in/nicholas-njama](https://www.linkedin.com/in/nicholas-njama)  
 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ⚡ **“Building secure systems for a connected world.”** ⚡

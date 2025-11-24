@@ -33,11 +33,11 @@
 ![Zero Trust](https://img.shields.io/badge/-Zero_Trust-4B8BF5?style=flat)
 
 🚀 **Featured Projects**
-- 🔹 **Transport Management System** – Logistics automation with secure authentication, OCR invoice processing & expense tracking  
-- 🔹 **Nextcloud Deployment** – Self-hosted private cloud for secure file storage and collaboration  
+- 🔹 **ISP Management System** – Networking management, Radius server in cooporation
+- 🔹 **Atomic8** – Python word generative tool, help in password cracking, artificial intelligence optimization on password predictability' 
 - 🔹 **Weather App (Decoupled)** – Next.js frontend + Laravel backend + OpenWeatherMap API  
 
-👉 More on my [Portfolio](https://your-portfolio-link.com) *(replace with your actual link)*
+👉 More on my [Portfolio](https://muriminicholas.github.io) *(replace with your actual link)*
 
 📜 **Certifications**
 - ✅ Fundamentals of Cybersecurity – IBM skilld
@@ -45,7 +45,7 @@
  
 
 📝 **Writeups**
-📂 Explore my CTF Writeups & Cybersecurity Reports → [Writeups Repository](https://github.com/yourusername/writeups)
+📂 Explore my CTF Writeups & Cybersecurity Reports → [Writeups Repository](https://github.com/muriminicholas/writeups)
 
 📊 **GitHub Stats**
 <p align="left">
@@ -57,6 +57,6 @@
 📧 Email: muriminicholas197@gmail.com  
 📱 Phone: +254 704 204 582 
 💼 LinkedIn: [linkedin.com/in/nicholas-njama](https://www.linkedin.com/in/nicholas-njama)  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
+🔗 GitHub: [github.com/yourusername](https://github.com/muriminicholas)
 
 ⚡ **“Building secure systems for a connected world.”** ⚡

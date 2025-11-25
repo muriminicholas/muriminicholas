@@ -39,7 +39,8 @@
 👉 More on my [Portfolio](https://muriminicholas.github.io) 
 
 📜 **Certifications**
-- ✅ Fundamentals of Cybersecurity – [IBM skilld] (https://images.credly.com/images/e7b5d573-10a2-463b-aa57-4fdd4ab39cd2/BadgeEmblem_CybersecurityFundamentalsWithCapstone.png)
+- ✅ Fundamentals of Cybersecurity –
+ ![IBM skilld] (https://images.credly.com/images/e7b5d573-10a2-463b-aa57-4fdd4ab39cd2/BadgeEmblem_CybersecurityFundamentalsWithCapstone.png)
 - ✅ Cisco Ethical hacking Graduate – Cyber Shujaa Program  
  
 

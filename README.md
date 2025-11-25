@@ -36,10 +36,10 @@
 - 🔹 **[Atomicnet](https://github.com/muriminicholas/atomicnet) ISP Management System** – Networking management, Radius server- cooporation forked [radius netty](https://github.com/muriminicholas/tinyradius-netty ).
 - 🔹 **[Atomic8](https://github.com/muriminicholas/atomic8)** – Python word generative tool, help in password cracking, artificial intelligence optimization on password predictability' 
 
-👉 More on my [Portfolio](https://muriminicholas.github.io) *(replace with your actual link)*
+👉 More on my [Portfolio](https://muriminicholas.github.io) 
 
 📜 **Certifications**
-- ✅ Fundamentals of Cybersecurity – IBM skilld
+- ✅ Fundamentals of Cybersecurity – [IBM skilld] (https://images.credly.com/images/e7b5d573-10a2-463b-aa57-4fdd4ab39cd2/BadgeEmblem_CybersecurityFundamentalsWithCapstone.png)
 - ✅ Cisco Ethical hacking Graduate – Cyber Shujaa Program  
  
 

@@ -40,8 +40,7 @@
 
 📜 **Certifications**
 
-- ✅ **Fundamentals of Cybersecurity** – IBM / Coursera  
-  ![IBM Cybersecurity Fundamentals]([https://images.credly.com/images/e7b5d573-10a2-463b-aa57-4fdd4ab39cd2/BadgeEmblem_CybersecurityFundamentalsWithCapstone.png](https://www.credly.com/badges/4db08304-96e2-4101-a09f-cf3b5992d3d3/public_url))
+- ✅ **Fundamentals of Cybersecurity** – IBM / Coursera  [IBM Cybersecurity Fundamentals]([https://images.credly.com/images/e7b5d573-10a2-463b-aa57-4fdd4ab39cd2/BadgeEmblem_CybersecurityFundamentalsWithCapstone.png](https://www.credly.com/badges/4db08304-96e2-4101-a09f-cf3b5992d3d3/public_url))
 - ✅ Cisco Ethical hacking Graduate – Cyber Shujaa Program  
  
 

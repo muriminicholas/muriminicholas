@@ -56,7 +56,7 @@
 📫 **Contact Me**
 📧 Email: muriminicholas197@gmail.com  
 📱 Phone: +254 704 204 582 
-💼 LinkedIn: [linkedin.com/in/nicholas-njama](https://www.linkedin.com/in/nicholas-njama)  
-🔗 GitHub: [github.com/muriminicholas](https://github.com/muriminicholas)
+💼 Lets connect [linkedin](https://www.linkedin.com/in/nicholas-njama)  
+🔗  follow me on [github](https://github.com/muriminicholas)
 
 ⚡ **“Building secure systems for a connected world.”** ⚡

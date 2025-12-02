@@ -36,7 +36,7 @@ React • Node.js • Python • Java Swing • MySQL • Docker • LangGraph �
 
 **One-liner:** I defend, I attack, I build unbreakable systems, and I automate the chaos with AI. ⚡
 
-Copy-paste ready — save as `profile.md`
+
 
 # ⚡ Professional Chaos Engineer
 
@@ -100,7 +100,6 @@ Ready to burn it all down — legally, of course.
 
 📊 **GitHub Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muriminicholas&show_icons=true&theme=tokyonight&hide_border=true" alt="Nicholas GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriminicholas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 

@@ -1,19 +1,70 @@
 
 👋 Hello, I'm Nicholas murimi Njama
-🛡️ Cybersecurity Practitioner  | 🚀 Systems Developer | ☁️ Cloud & AI Enthusiast
+🛡️ Cybersecurity Practitioner  | 🚀 Fullstack web developer | ☁️Cybersecurity and ethical hacking enthuathist
 
 🔹 **About Me**
-🎓 BSc Applied Computing (Information Security & Forensics) – KCA University (Graduating Nov 2025)  
-💼 Cybersecurity Intern @ The Red Users (Completed) – SIEM, threat detection, incident response  
+🎓 BSc Applied Computing (Cybersecurity and penetration testing) – KCA University  
+💼 Cisco ethical hacking- cybershujaa graduate.
 🏥 ICT Support Intern @ Local ISP – Troubleshooting, networking, Network managemnt IT support  
 
-⚡ **What I Do**
-- 🛡️ **Cybersecurity**: SIEM setup, log analysis, incident response, digital forensics  
-- 💻 **Secure Development**: Full-stack Transport Management Systems (React, Node.js, Laravel, MySQL)  
-- ☁️ **Cloud Security**: Zero Trust, MFA, key rotation, secure APIs  
-- 🤖 **AI Exploration**: Generative AI & Agentic AI for secure automation and intelligent workflows  
+# ⚡ What I Do
 
-🛠️ **Security & Development Toolkit**
+**Cybersecurity | Secure Development | Offensive Hacking | AI Automation**
+
+### 🛡️ **Cybersecurity**  
+SIEM setup & tuning • Log analysis • Incident response • Digital forensics (Volatility, Autopsy)
+
+### 💻 **Secure Development**  
+Full-stack ISP Management & Billing Systems  
+`React • Python (Flask/Django) • Java Swing • MySQL • Secure by design`
+
+### ☠️ **Offensive Hacking**  
+- Burp Suite & OWASP ZAP mastery  
+- Kioptrix • TryHackMe (Top 1%) • Hack The Box • VulnHub  
+- The Red Users • Cisco Ethical Hacking labs  
+
+### 🤖 **AI Exploration**  
+Generative & Agentic AI for ultra-fast automation  
+Intelligent security workflows • Autonomous agents • RAG-powered research
+
+### 🔓 **Cryptanalysis**  
+Algorithm flaws & misuse • Password cracking (Hashcat/John) • MITM attacks • Protocol breaking
+
+### 🛠️ **Security & Development Toolkit**  
+`Burp Suite • ZAP • Metasploit • Nmap • Hashcat • Wireshark • Wazuh • ELK • Volatility  
+React • Node.js • Python • Java Swing • MySQL • Docker • LangGraph • CrewAI • AutoGen
+
+**One-liner:** I defend, I attack, I build unbreakable systems, and I automate the chaos with AI. ⚡
+
+Copy-paste ready — save as `profile.md`
+
+# ⚡ Professional Chaos Engineer
+
+**Offensive Security | Exploit Development | Automated Mayhem**
+
+- 🔴 **Red Team Operator**  
+  Burp Suite virtuoso • Blind SQLi, SSTI, RCE chains in seconds  
+
+- 🩸 **Web & Application Slayer**  
+  Deserialization → shell • Kernel exploits for fun • JWT forged before coffee  
+
+- 🌐 **Network Haunter**  
+  MITM master • ARP/DNS spoofing • Evil Twin & rogue AP deployments  
+
+- 🧨 **Cryptography Breaker**  
+  Hashcat GPU clusters • Padding oracle • Weak DH/RSA hunter  
+
+- 🤖 **Agentic Overlord**  
+  Autonomous 0-day research • AI-driven exploit chaining • LangGraph/CrewAI weaponized  
+
+### ⚔️ Active Arsenal
+`Burp Suite Pro • ZAP • Metasploit • Covenant • Cobalt Strike • Hashcat • Bettercap • Impacket • BloodHound • Nuclei • sqlmap • ffuf • LangGraph • AutoGen • Ollama`
+
+**Tagline:**  
+I don’t find vulnerabilities.  
+I make systems regret being born. 🔪⚡
+
+Ready to burn it all down — legally, of course.
 
 🔐 **Cybersecurity**  
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk) 

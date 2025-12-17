@@ -87,7 +87,7 @@ Ready to burn it all down — legally, of course.
 - 🔹 **[Atomicnet](https://github.com/muriminicholas/atomicnet) ISP Management System** – Networking management, Radius server- cooporation forked [radius netty](https://github.com/muriminicholas/tinyradius-netty ).
 - 🔹 **[Atomic8](https://github.com/muriminicholas/atomic8)** – Python word generative tool, help in password cracking, artificial intelligence optimization on password predictability' 
 
-👉 More on my [Portfolio](https://muriminicholas.github.io) 
+👉 More on my [Portfolio](https://atomicdevsec.vercel.app) 
 
 📜 **Certifications**
 

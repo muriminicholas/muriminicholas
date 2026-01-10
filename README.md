@@ -1,112 +1,103 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=700&lines=Hello!+I'm+Nicholas+Murimi+Njama;🛡️+Cybersecurity+Practitioner+%26+Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator+%26+AI+Automation+Enthusiast;Building+Unbreakable+Systems+%26+Breaking+Them+Legally" alt="Typing SVG" />
+</div>
 
-👋 Hello, I'm Nicholas murimi Njama
-🛡️ Cybersecurity Practitioner  | 🚀 Fullstack web developer | ☁️Cybersecurity and ethical hacking enthuathist
+<br />
 
-🔹 **About Me**
-🎓 BSc Applied Computing (Cybersecurity and penetration testing) – KCA University  
-💼 Cisco ethical hacking- cybershujaa graduate.
-🏥 ICT Support Intern @ Local ISP – Troubleshooting, networking, Network managemnt IT support  
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicholas-njama">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muriminicholas197@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://atomicdevsec.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/muriminicholas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-# ⚡ What I Do
+<br />
 
-**Cybersecurity | Secure Development | Offensive Hacking | AI Automation**
+### 👨‍💻 Who I Am
+**BSc Applied Computing (Cybersecurity & Penetration Testing)** – KCA University  
+**Cisco Ethical Hacking Graduate** – Cyber Shujaa Program  
+**ICT Support Intern** @ Local ISP (Troubleshooting, Networking, Network Management)  
 
-### 🛡️ **Cybersecurity**  
-SIEM setup & tuning • Log analysis • Incident response • Digital forensics (Volatility, Autopsy)
+I defend, I attack, I build unbreakable systems, and I automate the chaos with AI.  
+**One-liner:** I don’t find vulnerabilities. I make systems regret being born. 🔪⚡ (Legally, of course.)
 
-### 💻 **Secure Development**  
-Full-stack ISP Management & Billing Systems  
-`React • Python (Flask/Django) • Java Swing • MySQL • Secure by design`
+### ⚡ What I Do
+**Cybersecurity** • **Offensive Security** • **Secure Full-Stack Development** • **AI Agentic Automation**
 
-### ☠️ **Offensive Hacking**  
-- Burp Suite & OWASP ZAP mastery  
-- Kioptrix • TryHackMe (Top 1%) • Hack The Box • VulnHub  
-- The Red Users • Cisco Ethical Hacking labs  
+#### 🛡️ Cybersecurity & Blue Team
+SIEM (Wazuh/ELK/Splunk) • Log Analysis • Incident Response • Digital Forensics (Volatility, Autopsy)
 
-### 🤖 **AI Exploration**  
-Generative & Agentic AI for ultra-fast automation  
-Intelligent security workflows • Autonomous agents • RAG-powered research
+#### ☠️ Red Team / Offensive Hacking
+Burp Suite Pro virtuoso • OWASP ZAP • Metasploit • sqlmap • ffuf • Nuclei  
+Blind SQLi, SSTI, RCE chains • JWT forgery • Deserialization exploits  
+MITM (Bettercap) • ARP/DNS spoofing • Evil Twin • Password cracking (Hashcat/John the Ripper)  
+TryHackMe (Top 1%) • Hack The Box • VulnHub • Kioptrix • The Red Users
 
-### 🔓 **Cryptanalysis**  
-Algorithm flaws & misuse • Password cracking (Hashcat/John) • MITM attacks • Protocol breaking
+#### 💻 Secure Development
+Full-stack ISP Management & Billing Systems – **Secure by Design**  
+**React** • **Node.js** • **Python (Flask/Django)** • **Java Swing** • **MySQL/PostgreSQL** • **Docker**
 
-### 🛠️ **Security & Development Toolkit**  
-`Burp Suite • ZAP • Metasploit • Nmap • Hashcat • Wireshark • Wazuh • ELK • Volatility  
-React • Node.js • Python • Java Swing • MySQL • Docker • LangGraph • CrewAI • AutoGen
+#### 🤖 AI & Automation
+Generative AI • Agentic workflows (LangGraph, CrewAI, AutoGen) • RAG-powered research  
+Autonomous agents for security scanning, exploit research, ultra-fast automation
 
-**One-liner:** I defend, I attack, I build unbreakable systems, and I automate the chaos with AI. ⚡
+#### 🔓 Cryptanalysis & More
+Algorithm flaws • Weak DH/RSA • Padding oracle • Protocol breaking • Wireshark mastery
 
+### 🛠️ Active Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,django,flask,java,mysql,docker&theme=dark&perline=8" alt="Dev Stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-00A3E0?style=flat&logo=nmap" />
+  <img src="https://img.shields.io/badge/Hashcat-FF0000?style=flat" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Wazuh-00A3E0?style=flat" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat" />
+  <img src="https://img.shields.io/badge/CrewAI-00FF9D?style=flat" />
+</div>
 
+### 🚀 Featured Projects
+- **[Atomicnet](https://github.com/muriminicholas/atomicnet)** — ISP Management & Billing System with RADIUS server (forked & extended [tinyradius-netty](https://github.com/muriminicholas/tinyradius-netty))  
+- **[Atomic8](https://github.com/muriminicholas/atomic8)** — AI-powered wordlist generator for password cracking & predictability optimization (Python)  
+- **[writeups](https://github.com/muriminicholas/writeups)** — CTF solutions, vuln research, digital forensics & incident response reports  
+- More secure/full-stack projects → [Portfolio](https://atomicdevsec.vercel.app)
 
-# ⚡ Professional Chaos Engineer
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muriminicholas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriminicholas&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
+</div>
 
-**Offensive Security | Exploit Development | Automated Mayhem**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriminicholas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</div>
 
-- 🔴 **Red Team Operator**  
-  Burp Suite virtuoso • Blind SQLi, SSTI, RCE chains in seconds  
+### 📜 Certifications
+- IBM Cybersecurity Fundamentals (Coursera/Credly)  
+- Cisco Ethical Hacking – Cyber Shujaa Program
 
-- 🩸 **Web & Application Slayer**  
-  Deserialization → shell • Kernel exploits for fun • JWT forged before coffee  
+### 📫 Let's Connect & Collaborate
+Open to: Bug bounties • Red team engagements • Secure dev contracts • AI security automation projects • Remote opportunities (flexible US/EU time zones)
 
-- 🌐 **Network Haunter**  
-  MITM master • ARP/DNS spoofing • Evil Twin & rogue AP deployments  
+📧 muriminicholas197@gmail.com  
+📱 +254 704 204 582  
+💼 [LinkedIn](https://www.linkedin.com/in/nicholas-njama)  
+🔗 [GitHub](https://github.com/muriminicholas)  
+🌐 [Portfolio](https://atomicdevsec.vercel.app)
 
-- 🧨 **Cryptography Breaker**  
-  Hashcat GPU clusters • Padding oracle • Weak DH/RSA hunter  
+⚡ **“Building secure systems for a connected world… and breaking them to make them stronger.”** ⚡
 
-- 🤖 **Agentic Overlord**  
-  Autonomous 0-day research • AI-driven exploit chaining • LangGraph/CrewAI weaponized  
-
-### ⚔️ Active Arsenal
-`Burp Suite Pro • ZAP • Metasploit • Covenant • Cobalt Strike • Hashcat • Bettercap • Impacket • BloodHound • Nuclei • sqlmap • ffuf • LangGraph • AutoGen • Ollama`
-
-**Tagline:**  
-I don’t find vulnerabilities.  
-I make systems regret being born. 🔪⚡
-
-Ready to burn it all down — legally, of course.
-
-🔐 **Cybersecurity**  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk) 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark) 
-![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&logo=elastic) 
-![Autopsy](https://img.shields.io/badge/-Autopsy-FF6F61?style=flat)
-
-💻 **Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-☁️ **Cloud & Security**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure) 
-![Zero Trust](https://img.shields.io/badge/-Zero_Trust-4B8BF5?style=flat)
-
-🚀 **Featured Projects**
-- 🔹 **[Atomicnet](https://github.com/muriminicholas/atomicnet) ISP Management System** – Networking management, Radius server- cooporation forked [radius netty](https://github.com/muriminicholas/tinyradius-netty ).
-- 🔹 **[Atomic8](https://github.com/muriminicholas/atomic8)** – Python word generative tool, help in password cracking, artificial intelligence optimization on password predictability' 
-
-👉 More on my [Portfolio](https://atomicdevsec.vercel.app) 
-
-📜 **Certifications**
-
-- ✅ **[Fundamentals of Cybersecurity](https://www.credly.com/badges/4db08304-96e2-4101-a09f-cf3b5992d3d3/public_url)** – IBM / Coursera  IBM Cybersecurity Fundamentals
-- ✅ Cisco Ethical hacking Graduate – Cyber Shujaa Program  
- 
-
-📝 **Writeups**
-📂 Explore my CTF Writeups & Cybersecurity Reports → [Writeups Repository](https://github.com/muriminicholas/writeups)
-
-📊 **GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriminicholas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-📫 **Contact Me**
-📧 Email: muriminicholas197@gmail.com  
-📱 Phone: +254 704 204 582 
-💼 Lets connect [linkedin](https://www.linkedin.com/in/nicholas-njama)  
-🔗  follow me on [github](https://github.com/muriminicholas)
-
-⚡ **“Building secure systems for a connected world.”** ⚡
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muriminicholas.muriminicholas&color=FF006E&style=flat&label=Profile+Views" alt="Profile Views" />
+</div>

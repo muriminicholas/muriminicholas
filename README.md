@@ -24,7 +24,7 @@
 ### 👨‍💻 Who I Am
 **BSc Applied Computing (Cybersecurity & Penetration Testing)** – KCA University  
 **Cisco Ethical Hacking Graduate** – Cyber Shujaa Program  
-**ICT Support Intern** @ Local ISP (Troubleshooting, Networking, Network Management)  
+**FreeLance Full stack Webdeveloper ** @ atomicdevsec (not limited to, ReactJs, Nextjs, Typescript, Vannila, node.js, python, java .)  
 
 I defend, I attack, I build unbreakable systems, and I automate the chaos with AI.  
 **One-liner:** I don’t find vulnerabilities. I make systems regret being born. 🔪⚡ (Legally, of course.)

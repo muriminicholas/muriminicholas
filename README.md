@@ -1,25 +1,38 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F71D6F&width=435&lines=Hi+I+am+Nicholas+Njama+Alias+Atomic;I+am+a+Cybersecurity+practitioner;Experience+in+fullstack+webdevelopmentt;I+speak+java%2C+python%2C+typescript.;Building+robust+and+secure+systems" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F71D6F&width=435&lines=Hi+I+am+Nicholas+Njama+Alias+Atomic;I+am+a+Cybersecurity+practitioner;Experience+in+full+stack+web+development;I+speak+java%2C+python%2C+typescript.;Building+robust+and+secure+systems" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 <br />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nicholas-njama">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muriminicholas197@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://atomicdevsec.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/muriminicholas">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 32px; padding: 8px;">
+<a href="https://www.linkedin.com/in/nicholas-njama" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   aria-label="Visit Nicholas Njama's LinkedIn profile"
+   style="display: inline-block;">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="24" height="24" alt="LinkedIn" />
+</a>
+<a href="mailto:muriminicholas197@gmail.com" 
+   aria-label="Send email to muriminicholas197@gmail.com"
+   style="display: inline-block;">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23d14836" width="24" height="24" alt="Email" />
+</a>
+<a href="https://atomicdevsec.vercel.app" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   aria-label="Visit my portfolio on Vercel"
+   style="display: inline-block;">
+    <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23000000" width="24" height="24" alt="Vercel Portfolio" />
+</a>
+<a href="https://github.com/muriminicholas" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   aria-label="Visit my GitHub profile"
+   style="display: inline-block;">
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" width="24" height="24" alt="GitHub" />
+</a>
 </div>
 
 <br />
@@ -27,7 +40,7 @@
 ### 👨‍💻 Whoami
 **BSc Applied Computing (Cybersecurity & Penetration Testing)** – KCA University  
 **Cisco Ethical Hacking Graduate** – Cyber Shujaa Program  
-**FreeLance Full stack Webdeveloper ** @ atomicdevsec (not limited to, ReactJs, Nextjs, Typescript, Vannila, node.js, python, java .)  
+**Freelance Full-Stack Web Developer** @ atomicdevsec (not limited to, ReactJs, Nextjs, Typescript, Vanilla, node.js, python, java.)  
 
 I defend, I attack, I build unbreakable systems, and I automate the chaos with AI.  
 **One-liner:** I don’t find vulnerabilities. I make systems regret being born. 🔪⚡ (Legally, of course.)

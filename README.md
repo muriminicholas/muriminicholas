@@ -1,11 +1,6 @@
 <div align="center">
-  <!-- Typing Animation Header -->
-  <img src="https://readme-typing-svg.herokuapp.com;🛡️+Cybersecurity+Practitioner;🔓+Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator;Building+Unbreakable+Systems" alt=" Hello I am Nicholas Murimi Njama - Cybersecurity Professional" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F71D6F&width=435&lines=Hi+I+am+Nicholas+Njama+Alias+Atomic;I+am+a+Cybersecurity+practitioner;Experience+in+fullstack+webdevelopmentt;I+speak+java%2C+python%2C+typescript.;Building+robust+and+secure+systems" alt="Typing SVG" /></a>
 
-  <p align="center">
-    <img src="https://img.shields.io" alt="Status 2026">
-    <img src="https://img.shields.io" alt="Focus">
-  </p>
 </div>
 
 ---

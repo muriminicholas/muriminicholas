@@ -1,7 +1,14 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com;🛡️+Cybersecurity+Practitioner;Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator;Building+Unbreakable+Systems" />
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.herokuapp.com;🛡️+Cybersecurity+Practitioner;🔓+Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator;Building+Unbreakable+Systems" alt=" Hello I am Nicholas Murimi Njama - Cybersecurity Professional" />
 
+  <p align="center">
+    <img src="https://img.shields.io" alt="Status 2026">
+    <img src="https://img.shields.io" alt="Focus">
+  </p>
 </div>
+
+---
 
 <br />
 

@@ -21,7 +21,7 @@
 
 <br />
 
-### 👨‍💻 Who I Am
+### 👨‍💻 Whoami
 **BSc Applied Computing (Cybersecurity & Penetration Testing)** – KCA University  
 **Cisco Ethical Hacking Graduate** – Cyber Shujaa Program  
 **FreeLance Full stack Webdeveloper ** @ atomicdevsec (not limited to, ReactJs, Nextjs, Typescript, Vannila, node.js, python, java .)  

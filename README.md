@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=700&lines=Hello!+I'm+Nicholas+Murimi+Njama;🛡️+Cybersecurity+Practitioner ;+Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator+%26+AI+Automation+Enthusiast;Building+Unbreakable+Systems+%26+Breaking+Them+Legally" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com;🛡️+Cybersecurity+Practitioner;Ethical+Hacker;🚀+Full-Stack+Secure+Developer;☠️+Red+Team+Operator;Building+Unbreakable+Systems" />
+
 </div>
 
 <br />
